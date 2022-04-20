@@ -1,5 +1,5 @@
 {
-  "name": "connect-pg-simple",
+  "name": "oswedev-connect-pg-simple",
   "version": "7.0.0",
   "description": "A simple, minimal PostgreSQL session store for Connect/Express",
   "url": "http://github.com/voxpelli/node-connect-pg-simple",
